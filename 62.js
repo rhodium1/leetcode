@@ -23,3 +23,4 @@ var uniquePaths = function(m, n) {
     }
     return solve(m, n);
 };
+console.log(uniquePaths(3, 3));
